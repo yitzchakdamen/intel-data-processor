@@ -17,23 +17,15 @@ This project was developed as a **team exercise** using **Trello** for task mana
 
 ## 🗂 Project Structure
 
-intel-data-processor/
-
-│
-
-├── mission_processor.py # Mission data processing
-
-├── personnel_analyzer.py # Personnel analysis
-
-├── report_generator.py # Report generation
-
-├── main.py # Integrated main interface
-
-├── test_data.py # Functional tests
-
-├── .gitignore # Git ignore rules
-
-└── README.md # Project documentation
+    intel-data-processor/
+    │
+    ├── mission_processor.py # Mission data processing
+    ├── personnel_analyzer.py # Personnel analysis
+    ├── report_generator.py # Report generation
+    ├── main.py # Integrated main interface
+    ├── test_data.py # Functional tests
+    ├── .gitignore # Git ignore rules
+    └── README.md # Project documentation
 
 ---
 
