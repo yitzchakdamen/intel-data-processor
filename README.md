@@ -16,7 +16,7 @@ This project was developed as a **team exercise** using **Trello** for task mana
 ---
 
 ## 🗂 Project Structure
-```
+
 intel-data-processor/
 │
 ├── mission_processor.py # Mission data processing
@@ -26,7 +26,7 @@ intel-data-processor/
 ├── test_data.py # Functional tests
 ├── .gitignore # Git ignore rules
 └── README.md # Project documentation
-```
+
 ---
 
 ## ⚙️ Installation & Running
