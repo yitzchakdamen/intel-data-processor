@@ -16,7 +16,7 @@ This project was developed as a **team exercise** using **Trello** for task mana
 ---
 
 ## 🗂 Project Structure
-
+```
 intel-data-processor/
 │
 ├── mission_processor.py # Mission data processing
@@ -26,15 +26,14 @@ intel-data-processor/
 ├── test_data.py # Functional tests
 ├── .gitignore # Git ignore rules
 └── README.md # Project documentation
-
+```
 ---
 
 ## ⚙️ Installation & Running
 
 ### 1. Clone the repository
     ```bash
-    git clone https://github.com/[username]/intel-data-processor.git
-    cd intel-data-processor
+    https://github.com/yitzchakdamen/intel-data-processor.git
 
 ### 2. Run the main program
 
