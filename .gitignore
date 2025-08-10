@@ -1,5 +1,6 @@
 # Ignore virtual environment folder
 venv/
+idea/
 
 # Python cache files
 __pycache__/
@@ -14,6 +15,8 @@ __pycache__/
 
 *.pyc
 .env
+.idea
+
 .venv
 classified_data/
 temp_files/
