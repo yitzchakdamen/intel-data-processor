@@ -4,7 +4,9 @@ from report_generator import generate_mission_summary, generate_personnel_report
 
 
 def main():
-    print("==    = ARMY INTELLIGENCE DATA PROCESSOR ===\n")
+
+    print("=== ARMY INTELLIGENCE DATA PROCESSOR ===\n")
+
 
     # Load data
     missions = load_mission_data()
